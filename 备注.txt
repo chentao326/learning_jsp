@@ -1,0 +1,6 @@
+参考文档：https://blog.csdn.net/a145127/article/details/84893355
+
+缺少jar包，文档中有mysql jar包、EL jar包、JSTL jar包
+
+*****************以上暂时不用管**********************
+直接跟PPT做
